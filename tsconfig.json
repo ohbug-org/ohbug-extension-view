@@ -1,0 +1,4 @@
+{
+  "extends": "@chenyueban/tsconfig",
+  "include": ["src", "ui"]
+}

@@ -4,7 +4,7 @@
     "key": "view"
   },
   "name": "@ohbug/extension-view",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ohbug extension to collect view data",
   "author": "chenyueban <jasonchan0527@gmail.com>",
   "homepage": "https://github.com/ohbug-org/ohbug-extension-view",

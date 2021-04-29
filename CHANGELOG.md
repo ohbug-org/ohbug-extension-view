@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.1 (2021-04-29)
+
+### Features
+
+- 完成 PV/UV 的收集功能 ([df77370](https://github.com/ohbug-org/ohbug-extension-view/commit/df77370644e7025b73c0761620b2639b199706d5))
+
 ### [1.2.1](https://github.com/ohbug-org/ohbug-extension-starter/compare/v1.2.0...v1.2.1) (2021-04-27)
 
 ### Features

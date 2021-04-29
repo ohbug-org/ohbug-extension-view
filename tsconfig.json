@@ -6,7 +6,6 @@
   },
   "include": [
     "src/**/*",
-    "ui/**/*",
     ".eslintrc.js",
     ".prettierrc.js",
     "commitlint.config.js",

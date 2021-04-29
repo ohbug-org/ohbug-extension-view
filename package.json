@@ -1,11 +1,7 @@
 {
   "ohbug": {
     "name": "OhbugExtensionView",
-    "key": "view",
-    "ui": {
-      "name": "OhbugExtensionUIView",
-      "cdn": "your_cdn"
-    }
+    "key": "view"
   },
   "name": "@ohbug/extension-view",
   "version": "0.0.0",
@@ -58,7 +54,6 @@
     "prebuild": "rimraf dist",
     "build": "rollup -c --environment NODE_ENV:production",
     "dev": "rollup -cw",
-    "build:ui": "rollup -c rollup.config.ui.js --environment NODE_ENV:production",
     "update:deps": "yarn upgrade-interactive --latest",
     "release": "standard-version"
   },
